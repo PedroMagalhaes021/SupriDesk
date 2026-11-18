@@ -1,0 +1,13 @@
+SupriDesk - Gestão de Solicitações de Materiais
+
+Executar o programa (na pasta do projeto):
+    python main.py
+
+Executar os testes:
+    python -m unittest tests/teste_regras.py
+
+Estrutura:
+    main.py              ponto de entrada
+    supridesk/           pacote (banco, regras, interface)
+    tests/               testes automatizados
+    solicitacoes.db      criado automaticamente na primeira execução

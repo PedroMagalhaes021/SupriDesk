@@ -1,0 +1,1 @@
+"""Pacote do SupriDesk: banco, regras de negócio e interface."""
